@@ -11,7 +11,7 @@ const addValue = () => {
 
 
   
-}
+
   return (
     <>
       <h1>chai aur react</h1>
@@ -24,6 +24,6 @@ const addValue = () => {
       <button>remove</button>
     </>
   )
-
+}
 
 export default App
